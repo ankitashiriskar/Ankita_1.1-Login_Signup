@@ -1,0 +1,5 @@
+CREATE TABLE `user` (
+  `username` varchar(100) DEFAULT NULL,
+  `password` varchar(100) DEFAULT NULL,
+  `name` varchar(100) DEFAULT NULL
+) 
